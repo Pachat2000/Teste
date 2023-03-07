@@ -7,6 +7,8 @@ Ensuite, j'ai pu les manipuler pour enfin les envoyer dans un google sheet.
 
 `python manage.py runserver`
 Ouvrir un navigateur et taper soit /films ou /sheets à la suite de l'url pour acceder au different exercices.
+https://docs.google.com/spreadsheets/d/12k57QJTMysso-GQE3tDZ6uFXas0LB7WCKxnkQuVV_bk/edit?usp=sharing
+Pour le google sheets
 
 # Comment tu envisages la partie hébergement ?
 
